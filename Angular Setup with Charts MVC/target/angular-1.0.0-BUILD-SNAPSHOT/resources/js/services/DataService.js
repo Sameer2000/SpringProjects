@@ -1,0 +1,5 @@
+testModule.service('DataService', [function () {
+
+	
+}]);
+
